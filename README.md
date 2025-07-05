@@ -75,28 +75,4 @@ Make sure MongoDB is running locally or linked via MongoDB Atlas.
 
 📱 Mobile responsiveness
 
-📬 Contact
-For questions, feedback, or suggestions, feel free to open an issue on GitHub.
-
-
-yaml
-Copy
-Edit
----
-
-### 📌 How to Use
-- Replace `[Your Name]` and `your-username` with your actual GitHub info.
-- Save the content above in a file named `README.md` inside your project folder.
-- Commit and push to GitHub.
-
-Let me know if you want me to generate it as a file you can upload directly.
-
-
-
-
-
-
-
-
-Ask ChatGPT
 
